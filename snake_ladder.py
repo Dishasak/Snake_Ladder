@@ -1,5 +1,7 @@
-#usedcase1 
-position = 0
+#usedcase2
 
-print(f"The player is on the position {position}")
+import random
+dice_roll = random.randint(1,6)
+
+print(dice_roll)
 
