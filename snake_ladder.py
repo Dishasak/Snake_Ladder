@@ -59,4 +59,3 @@ while player1 < target and player2 < target:
         break
 
 print(f"Game over. Number of times dice rolls: {count}")
-
